@@ -21,11 +21,13 @@ Use:	```shade teapot-3.nff```
 Flags:-
 
 Use:	```shade -p teapot-3.nff```
+	
 	for Phong- Smooth shading     for extra credit smoothshading
 
  the output is "output.ppm"
 
 Use:	```shade -j -s 3 teapot-3.nff ```
+	
 	for stratified sampling       for extra credit sampling
 	
 Here,-s 3 is the number of samples and can be used to specify the number of samples
